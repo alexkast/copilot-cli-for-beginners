@@ -32,6 +32,8 @@ python book_app.py list
 python book_app.py add
 python book_app.py find
 python book_app.py remove
+python book_app.py mark
+python book_app.py search
 python book_app.py help
 ```
 
